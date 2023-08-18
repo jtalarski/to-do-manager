@@ -17,4 +17,4 @@ To run this app you will need:
 * Execute the SQL commands from database.sql
 * Run npm install from the project root directory
 * Run npm start to run the node server
-* Open http://localhost:5000 in your browse
+* Open http://localhost:5000 in your browser
