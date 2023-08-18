@@ -1,7 +1,7 @@
 # Project Name
 SQL To Do App
 
-This is a basic ToDo list where a use can make a list of tasks that need to be completed. The user can mark the tasks as complete and or delete them from the list.
+This is a basic ToDo list where a user can make a list of tasks that need to be completed. The user can mark the tasks as complete and or delete them from the list.
 
 For this app I used my full stack integration skills
 ## Demo
