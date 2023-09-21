@@ -13,7 +13,7 @@ app.use('/tasks', taskRouter);
 app.use(express.static('server/public'))
 
 // Start listening for requests on a specific port
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
     console.log('listening on port', PORT);
 });
